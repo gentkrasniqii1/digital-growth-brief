@@ -1,73 +1,27 @@
-# Welcome to your Lovable project
+Expert IT Solutions - Business Transformation Platform
+This project is a modern, responsive web application designed to showcase and deliver expert IT solutions for businesses. It empowers organizations with cutting-edge technology services, including cloud infrastructure, cybersecurity, and comprehensive IT management. The platform features a clean, user-friendly interface with clear calls-to-action, real-time system status indicators, and highlights key service metrics such as 24/7 support, 500+ clients, and 99.9% uptime.
 
-## Project info
+Key Features
+Professional Landing Page: Engaging hero section with strong branding and value proposition.
 
-**URL**: https://lovable.dev/projects/56750c48-3756-41c4-981b-ee2a7ea6cc0f
+Service Highlights: Visual representation of system status, security level, and performance.
 
-## How can I edit this code?
+Client Trust Indicators: Icons and stats for support, client base, and uptime.
 
-There are several ways of editing your application.
+Responsive Design: Optimized for all devices and screen sizes.
 
-**Use Lovable**
+Easy Navigation: Clear calls-to-action for getting started or scheduling a consultation.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/56750c48-3756-41c4-981b-ee2a7ea6cc0f) and start prompting.
+Technologies Used
+HTML5, CSS3, JavaScript (framework/library as applicable)
 
-Changes made via Lovable will be committed automatically to this repo.
+Responsive layout (Flexbox/Grid)
 
-**Use your preferred IDE**
+[Add backend or API details if relevant]
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Getting Started
+Clone the repository.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Install dependencies (npm install or as applicable).
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/56750c48-3756-41c4-981b-ee2a7ea6cc0f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Run locally (npm start or as applicable) and visit http://localhost:8080.
